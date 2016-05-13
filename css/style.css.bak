@@ -41,7 +41,7 @@ body {
 }
 
 #read2{
-	color: #AAAA32;
+	color: #EEEEEE;
 }
 
 /***** 푸터 *****/
